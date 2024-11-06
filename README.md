@@ -1,58 +1,73 @@
-<p>&nbsp;</p>
-<p align="center">
-<img src="https://github.com/andromedaprotocol/andromeda-nextjs-application-starter/blob/main/public/Andromeda-Logo.png" width=1000>
-</p>
+# NFT Galaxy Hub on Andromeda
 
-# About
-The Andromeda Next.js Application Starter is a base setup for developers to start building without having to worry about the prerequisites. Containing all the key parts needed, it allows you to set up in minutes and start working on your builds. The starter contains the following setups:
-- Keplr integration
-- Andromeda Client (Devnet)
-- GraphQL integration
-- Contract execution hooks 
+## Project Title
+NFT Galaxy Hub - A Decentralized NFT Integration Platform
 
-Using this as a starting template, any developer can create their own nextjs application with custom embeddables that suit their needs.
+## Who I Am
+**Name**: Eylül Satır
+- Blockchain Developer focusing on NFT integrations
+- Passionate about decentralized technologies
+- Building on Andromeda Protocol to create seamless NFT experiences
+- GitHub: [@eylulsatir](https://github.com/eylulsatir)
 
-**Notes**:
-- It mainly uses Chakra UI, but developers can install any styling library, such as Tailwind, for example.
-- This setup is currently using our Devnet (Testnet for Devs). If you encounter any issues connecting to the GraphQL or chain, please contact us for support.
+## Project Description
+NFT Galaxy Hub is a decentralized application built on the Andromeda Protocol that revolutionizes NFT interactions. Our platform provides a seamless integration layer for NFT creation, management, and trading, leveraging Andromeda's powerful ADO framework. By utilizing Keplr wallet integration and GraphQL, we offer a user-friendly interface that makes NFT interactions accessible to everyone.
 
- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). 
+## Vision Statement
+We envision NFT Galaxy Hub becoming the go-to platform for NFT enthusiasts and creators on the Andromeda Protocol. Our goal is to bridge the gap between complex blockchain technology and everyday users, making NFT interactions as simple as traditional web applications. By leveraging Andromeda's unique features, we aim to create an ecosystem where NFTs can be easily integrated into various applications.
 
-## Getting Started
+## Key Features
+- Keplr Wallet Integration
+- Andromeda Client (Devnet) Connection
+- GraphQL Data Integration
+- Smart Contract Execution Hooks
+- Modern UI with Chakra Components
+- Real-time Contract Interactions
 
-First, run the development server:
+## Additional Features
+- Intuitive User Dashboard
+- Real-time NFT Status Updates
+- Seamless Wallet Connection Experience
 
+## Software Development Plan
+1. **ADO Integration**
+   - Implement core NFT contract functions
+   - Develop state management for NFT data
+   - Create interaction hooks for ADO features
+
+2. **Frontend Development**
+   - Build responsive UI components
+   - Implement wallet connection flow
+   - Create data visualization components
+
+3. **Testing & Deployment**
+   - Test on Andromeda Devnet
+   - Deploy to mainnet
+   - Monitor performance
+
+## Embeddable Links
+- [Live Demo](https://github.com/eylulsatir/Andromeda-Demo)
+- [Documentation](https://docs.andromedaprotocol.io/)
+
+## Screenshots
+[Coming Soon]
+
+## Future Scope
+- Enhanced NFT Management Features
+- Multi-wallet Support Integration
+- Advanced Metadata Display System
+- Real-time Market Updates
+- Cross-chain NFT Integration
+- Community Governance Features
+
+## Installation Guide
 ```bash
-npm i
-# then 
+# Clone the repository
+git clone https://github.com/eylulsatir/Andromeda-Demo.git
+
+# Install dependencies
+cd Andromeda-Demo
+npm install
+
+# Start development server
 npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## Licensing
-
-[Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md)
