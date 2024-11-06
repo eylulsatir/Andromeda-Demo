@@ -1,0 +1,7 @@
+{"coinDenom":"uandr","name":"Demo Auction","chainId":"galileo-4",
+"createdDate":"2024-10-26T19:36:20.040Z","modifiedDate":"2024-10-27T05:21:26.295Z","key":"demo-auction",
+"collections":
+[{"auction":"andr16jgxddkhsyfyz2r5uq8lrx6npt436q606qcc7kxmnvmk9zc4hqgsmcxggw"
+,"cw721":"andr1x86s7zq0ez84m82gvvkhhp7srvyrutgrdp32w00wxevlv5k2gp9qwqua0g",
+"name":"Demo Collection","type":"embeddables-auction",
+"id":"embeddables-auction-1"}],"$type":"nft"}
