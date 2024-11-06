@@ -3,8 +3,8 @@
 ## Project Title
 NFT Galaxy Hub - A Decentralized NFT Integration Platform
 
-## Who I Am
-**Name**: Eylül Satır
+
+ Eylül Satır
 - Blockchain Developer focusing on NFT integrations
 - Passionate about decentralized technologies
 - Building on Andromeda Protocol to create seamless NFT experiences
